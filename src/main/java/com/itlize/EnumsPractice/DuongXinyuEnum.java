@@ -2,7 +2,8 @@ package com.itlize.EnumsPractice;
 
 public enum DuongXinyuEnum {
     Duong("Hey, my name is Duong!"),
-    Xinyu("Hey, my name is Xinyu!");
+    Xinyu("Hey, my name is Xinyu!"),
+    Tom("Hey, my name is Tom");
 
     private String catchPharase;
     DuongXinyuEnum(String catchPharase) {
